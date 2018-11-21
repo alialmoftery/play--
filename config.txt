@@ -1,5 +1,5 @@
 token= NTEwOTA2OTIzNzYwMDkxMTU2.DsjLqg.vEmFShQH32BD6YDSq-cm_94-QTg
-owner= 478954803657965569 
+owner= 514114378384015372 
 prefix= !
 game= Type !help
 stayinchannel=true 
