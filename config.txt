@@ -1,6 +1,6 @@
-token= NTEwOTA2OTIzNzYwMDkxMTU2.DsjLqg.vEmFShQH32BD6YDSq-cm_94-QTg
-owner= 514114378384015372 
-prefix= !
-game= Type !help
+token= NTE0OTgxNjc0MjMzMjMzNDA5.DteeYg.i_VJMIp7voixfkk1vaWQKBkrioI
+owner= 246353169121017857 
+prefix= 3
+game= Type 3help
 stayinchannel=true 
 songinstatus=false 
